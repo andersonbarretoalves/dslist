@@ -1,7 +1,6 @@
 package com.devsuperior.dslist.entities;
 
 import java.util.Objects;
-import com.fasterxml.jackson.core.sym.Name;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
